@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **wbhuyian201286@bscse.uiu.ac.bd**
 
-- ⚡ Fun fact **I am still a student.**
+- ⚡ Fun fact **I am great at procrastination.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
