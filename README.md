@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **NextJs, React & MongoDB**
 
-- 💬 Ask me about **Java, JS, React, NodeJS, NEXT.JS, C/C++, MySQL, PHP, CSS/HTML**
+- 💬 Ask me about **Java, JavaScript, React, NodeJS, NEXT.JS, C/C++, MySQL, PHP, CSS/HTML**
 
 - 📫 How to reach me **wbhuyian201286@bscse.uiu.ac.bd**
 
