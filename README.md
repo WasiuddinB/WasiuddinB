@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wasiuddinb&label=Profile%20views&color=0e75b6&style=flat" alt="wasiuddinb" /> </p>
 
-- 🔭 I’m currently working on [BlogDev](https://github.com/WasiuddinB/BlogDev)
+- 🔭 I’m currently working on [..]()
 
 - 🌱 I’m currently learning **NextJs, React & MongoDB**
 
