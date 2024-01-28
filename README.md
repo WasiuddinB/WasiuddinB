@@ -5,15 +5,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wasiuddinb&label=Profile%20views&color=0e75b6&style=flat" alt="wasiuddinb" /> </p>
 
-- 🔭 I’m currently working on [..]()
+- I’m currently working on real life NextJs implementation projects.
 
-- 🌱 I’m currently learning **NextJs, React & MongoDB**
+- Currently focusing on **NextJs, React & MongoDB**
 
-- 💬 Ask me about **Java, JavaScript, React, NodeJS, NextJS, C/C++, MySQL, PHP, CSS/HTML**
+- Ask me about **Java, JavaScript, React, NodeJS, NextJS, C/C++, MySQL, PHP, CSS/HTML**
 
-- 📫 How to reach me **wbhuyian201286@bscse.uiu.ac.bd**
-
-- ⚡ Fun fact **I am great at procrastination.**
+- How to reach me **wbhuyian201286@bscse.uiu.ac.bd**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
