@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wasiuddinb&label=Profile%20views&color=0e75b6&style=flat" alt="wasiuddinb" /> </p>
 
-- I’m currently working on real life NextJs implementation projects.
+- I’m currently working on **https://github.com/WasiuddinB/CDIP**
 
 - Currently focusing on **NextJs, React & MongoDB**
 
