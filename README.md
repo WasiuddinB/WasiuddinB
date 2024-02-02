@@ -15,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/wasi-uddin-b7a9401b2/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="wasi uddin" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/wasiuddinb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="wasi uddin" height="30" width="40" /></a>
 <a href="https://www.kaggle.com/wasiuddinbhuyian" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="wasi uddin bhuyian" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/WasiuddinB" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="wasi" height="30" width="40" /></a>
 </p>
