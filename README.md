@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wasiuddinb&label=Profile%20views&color=0e75b6&style=flat" alt="wasiuddinb" /> </p>
 
-- I’m currently working on **https://github.com/WasiuddinB/CDIP**
+- I’m currently working on [CDIP](https://github.com/WasiuddinB/CDIP)
 
 - Currently focusing on **NextJs, React & MongoDB**
 
@@ -17,6 +17,7 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/wasi-uddin-b7a9401b2/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="wasi uddin" height="30" width="40" /></a>
 <a href="https://www.kaggle.com/wasiuddinbhuyian" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="wasi uddin bhuyian" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/WasiuddinB" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="wasi" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
