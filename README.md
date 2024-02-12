@@ -5,13 +5,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wasiuddinb&label=Profile%20views&color=0e75b6&style=flat" alt="wasiuddinb" /> </p>
 
-- I’m currently working on [CDIP](https://github.com/WasiuddinB/CDIP)
+- I’m currently working on [goTravelot](https://github.com/Asif-Uchchas/goTravelot.git)
 
 - Currently focusing on **NextJs, React & MongoDB**
 
 - Ask me about **Java, JavaScript, React, NodeJS, NextJS, C/C++, MySQL, PHP, CSS/HTML**
 
-- How to reach me **wbhuyian201286@bscse.uiu.ac.bd**
+- How to reach me **wbhuyian201286@bscse.uiu.ac.bd** Or **wasiuddinbhuyian71@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
