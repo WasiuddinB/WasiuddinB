@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wasiuddinb&label=Profile%20views&color=0e75b6&style=flat" alt="wasiuddinb" /> </p>
 
-- I’m currently working on [goTravelot](https://github.com/Asif-Uchchas/goTravelot.git)
+- I’m currently working on my Next.js Project [goTravelot](https://github.com/Asif-Uchchas/goTravelot.git)
 
 - Currently focusing on **NextJs, React & MongoDB**
 
