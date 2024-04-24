@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wasiuddinb&label=Profile%20views&color=0e75b6&style=flat" alt="wasiuddinb" /> </p>
 
-- I’m currently working on my Next.js Project [goTravelot](https://github.com/Asif-Uchchas/goTravelot.git)
+- I’m currently working on my Next.js Project [Tour-Trail](https://github.com/Asif-Uchchas/TourTrail)
 
 - Checkout My portfolio on [WasiuddinB](https://wasiuddinportfolio.vercel.app)
 
